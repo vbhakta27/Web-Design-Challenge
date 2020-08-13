@@ -28,16 +28,4 @@ The website has a navigation menu at the top of every page that:
 * Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
 * Is responsive (using media queries).
 
-The website has been deployed to GitHub pages.
-
-#### Navigation menu
-
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
-
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
+The website has been deployed to [GitHub pages](https://vbhakta27.github.io/Web-Design-Challenge/).
